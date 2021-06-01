@@ -13,9 +13,13 @@ DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 </p>
 
 ## How the app looks like
+
 <p align="center">
-![alt-text-1](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412342.png) ![alt-text-2](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412334.png)
+<img src="/images/1622560412342.png">
+<img src="/images/1622560412334.png">
+
 </p>
+
 
 ## Prerequisites 
 
@@ -30,7 +34,10 @@ pip3 install SpeechRecognition
 ```
 
 ### Nao Robot
-Pepper is a semi-humanoid robot manufactured by SoftBank Robotics (formerly Aldebaran Robotics).
+NAO is an autonomous, programmable humanoid robot manufactured by SoftBank Robotics (formerly Aldebaran Robotics).
+
+### Android Application
+The minimum SDK for the android application is API 16: Android 4.1 (Jelly Bean).
 
 ## How to run it
 *   First, download all the code from the folder **Server** to your computer/server.
