@@ -47,6 +47,6 @@ python ethical_pepper.py
 
 [**Georgios Angelopoulos**](https://www.linkedin.com/in/george-angelopoulos/)
 
-[**Georgios Kalampokis**](https://www.linkedin.com/in/george-angelopoulos/)
+[**Georgios Kalampokis**](https://www.linkedin.com/in/george-kalampokis-130875b5/)
 
-[**Minas Dasygenis**](https://www.linkedin.com/in/george-angelopoulos/)
+[**Minas Dasygenis**](https://www.linkedin.com/in/minas-dasygenis-7a84777b)
