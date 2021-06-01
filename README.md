@@ -12,6 +12,21 @@ DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 <img src="/images/system.png" width="650">
 </p>
 
+
+
+
+## Prerequisites 
+
+### Server/Computer
+The server we used is a FreeBSD web server which runs PHP scripts in order to be the bridge between the humanoid robot and the android phone and is accessible from everywhere.
+
+### Nao Robot
+NAO is an autonomous, programmable humanoid robot manufactured by SoftBank Robotics (formerly Aldebaran Robotics).
+
+### Android Application
+The minimum SDK for the android application is API 16: Android 4.1 (Jelly Bean).
+
+
 ## How the app looks like
 
 <p align="center">
@@ -20,42 +35,13 @@ DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 
 </p>
 
+## YouTube Video
 
-## Prerequisites 
-
-### Python 3 (On your computer/server)
-
-With the following libraries installed:
-
-*   SpeechRecognition, a library for performing speech recognition.
-
-```console
-pip3 install SpeechRecognition
-```
-
-### Nao Robot
-NAO is an autonomous, programmable humanoid robot manufactured by SoftBank Robotics (formerly Aldebaran Robotics).
-
-### Android Application
-The minimum SDK for the android application is API 16: Android 4.1 (Jelly Bean).
-
-## How to run it
-*   First, download all the code from the folder **Server** to your computer/server.
-*   Finally, Enable the "Brain":
-
-```console
-python3 thebrain.py
-```
-
-*   After enabling the server, SSH onto the robot and download all the code from the folder **Pepper**.
-*   Finally, Enable Pepper:
-
-```console
-python ethical_pepper.py
-```
-
-
-<img src="/images/Dilemmas/case_no1.png" width="650">
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=Wlv6IQWP240">
+         <img src="https://img.youtube.com/vi/Wlv6IQWP240/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## Authors
 
