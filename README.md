@@ -8,10 +8,14 @@ Published in: [2017 Panhellenic Conference on Electronics and Telecommunications
 DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 
 ## System Architecture
-<img src="/images/system.png" width="600">
+<p align="center">
+<img src="/images/system.png" width="650">
+</p>
 
 ## How the app looks like
+<p align="center">
 ![alt-text-1](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412342.png) ![alt-text-2](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412334.png)
+</p>
 
 ## Prerequisites 
 
