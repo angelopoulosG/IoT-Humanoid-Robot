@@ -8,7 +8,7 @@ Published in: [2017 Panhellenic Conference on Electronics and Telecommunications
 DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 
 ## System Architecture
-<img src="/images/system_architecture.png" width="600">
+<img src="/images/8259978-fig-1-source-large.gif" width="600">
 
 ## Prerequisites 
 
