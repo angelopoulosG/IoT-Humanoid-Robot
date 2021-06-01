@@ -10,6 +10,9 @@ DOI: [10.1109/PACET.2017.8259978](https://doi.org/10.1109/PACET.2017.8259978)
 ## System Architecture
 <img src="/images/8259978-fig-1-source-large.gif" width="600">
 
+## How the app looks like
+![alt-text-1](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412322.png) ![alt-text-2](https://github.com/george50450/IoT-Humanoid-Robot/blob/master/images/1622560412334.png)
+
 ## Prerequisites 
 
 ### Python 3 (On your computer/server)
