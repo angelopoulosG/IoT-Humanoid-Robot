@@ -43,10 +43,26 @@ The minimum SDK for the android application is API 16: Android 4.1 (Jelly Bean).
       </a>
 </div>
 
+## Cite this work
+Do you plan to extend or contribute to our work? If yes, it would be great to mention us in your work. Please keep us informed.
+
+```
+@INPROCEEDINGS{8259978,
+author={Angelopoulos, Georgios and Kalampokis, Georgios Theodoros and Dasygenis, Minas},
+booktitle={2017 Panhellenic Conference on Electronics and Telecommunications (PACET)},
+title={An Internet of Things humanoid robot teleoperated by an open source Android application},
+year={2017},
+volume={},
+number={},
+pages={1-4},
+doi={10.1109/PACET.2017.8259978}}
+```
+
+
 ## Authors
 
-[**Georgios Angelopoulos**](https://www.linkedin.com/in/george-angelopoulos/)
+* [**Georgios Angelopoulos**](https://www.linkedin.com/in/george-angelopoulos/)
 
-[**Georgios Kalampokis**](https://www.linkedin.com/in/george-kalampokis-130875b5/)
+* [**Georgios Kalampokis**](https://www.linkedin.com/in/george-kalampokis-130875b5/)
 
-[**Minas Dasygenis**](https://www.linkedin.com/in/minas-dasygenis-7a84777b)
+* [**Minas Dasygenis**](https://www.linkedin.com/in/minas-dasygenis-7a84777b)
